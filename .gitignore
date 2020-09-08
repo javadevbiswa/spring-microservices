@@ -1,0 +1,10 @@
+
+spring-microservices/.metadata/
+*.index
+*.cfs
+*.del
+*.js
+*.dat
+*.ini
+*.cmd
+
